@@ -31,7 +31,7 @@
 ```
 
 ### H1 - H6
-The h1 to h6 tags are used to define HTML headings.
+The `<h1>` to `<h6>` tags are used to define HTML headings.
 h1 defines the most important heading. h6 defines the least important heading.
 
 
@@ -64,4 +64,17 @@ h1 defines the most important heading. h6 defines the least important heading.
 ###### h6
 ```
     <h6> Headline 6 </h6>
+```
+
+# Paragraphs
+The HTML `<p>` element defines a paragraph:
+```
+<p>
+This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.
+</p>
+
 ```
