@@ -31,9 +31,8 @@
 ```
 
 ### H1 - H6
-The <h1> to <h6> tags are used to define HTML headings.
-
-<h1> defines the most important heading. <h6> defines the least important heading.
+The h1 to h6 tags are used to define HTML headings.
+h1 defines the most important heading. h6 defines the least important heading.
 
 
 
