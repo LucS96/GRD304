@@ -31,7 +31,7 @@ _You **can** combine them_
 
 ## Images
 ```
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](https://www.metal-archives.com/images/2/3/7/1/23715_artist.jpg?4002)
 Format: ![Alt Text](url)
 ```
 ## Links
