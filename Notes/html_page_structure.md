@@ -78,3 +78,54 @@ ignores it.
 </p>
 
 ```
+
+# Bold & Italic
+This is how we make a word appear **bold**
+
+This is how we make a word appear *italic*
+
+```
+<p>This is how we make a word appear 
+<b>bold</b>
+</p>
+
+<p>This is how we make a word appear 
+<i>italic</i>
+</p>
+```
+
+#Superscript & Subscript
+on the 4<sup>th</sup> September you will learn about E=MC<sup>2</sup>.
+
+The amout of C0<sub>2</sub> in the atmosphere grew by 2ppm in 2009
+
+```
+<p>On the 4<sup>th</sup> September you will learn about E=MC<sup>2</sup>.</p>
+
+<p>The amount of C0<sub>2</sub> in the atmosphere grew by 2ppm in
+2009<sub>1</sub>.</p>
+
+```
+#Line Breaks
+<p>The Earth<br />gets one hundred tons heavier every day<br />due to falling space dust.</p>
+
+```
+<p>The Earth<br />gets one hundred tons heavier every day<br />due to falling space dust.</p>
+```
+#Horizontal Rules
+<p>Venus is the only plant that rotates clockwise</p>
+
+<hr />
+
+<p>Jupiter is bigger than all the other planets combined.</p>
+
+```
+<p>Venus is the only plant that rotates clockwise</p>
+
+<hr />
+
+<p>Jupiter is bigger than all the other planets combined.</p>
+
+```
+
+
