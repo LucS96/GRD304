@@ -112,7 +112,7 @@ The amout of C0<sub>2</sub> in the atmosphere grew by 2ppm in 2009
 ```
 <p>The Earth<br />gets one hundred tons heavier every day<br />due to falling space dust.</p>
 ```
-#Horizontal Rules
+## Horizontal Rules
 <p>Venus is the only plant that rotates clockwise</p>
 
 <hr />
