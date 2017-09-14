@@ -66,7 +66,7 @@ h1 defines the most important heading. h6 defines the least important heading.
     <h6> Headline 6 </h6>
 ```
 
-# Paragraphs
+## Paragraphs
 The HTML `<p>` element defines a paragraph:
 ```
 <p>
@@ -79,7 +79,7 @@ ignores it.
 
 ```
 
-# Bold & Italic
+## Bold & Italic
 This is how we make a word appear **bold**
 
 This is how we make a word appear *italic*
@@ -94,7 +94,7 @@ This is how we make a word appear *italic*
 </p>
 ```
 
-#Superscript & Subscript
+## Superscript & Subscript
 on the 4<sup>th</sup> September you will learn about E=MC<sup>2</sup>.
 
 The amout of C0<sub>2</sub> in the atmosphere grew by 2ppm in 2009
@@ -106,7 +106,7 @@ The amout of C0<sub>2</sub> in the atmosphere grew by 2ppm in 2009
 2009<sub>1</sub>.</p>
 
 ```
-#Line Breaks
+## Line Breaks
 <p>The Earth<br />gets one hundred tons heavier every day<br />due to falling space dust.</p>
 
 ```
