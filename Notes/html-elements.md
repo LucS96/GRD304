@@ -95,5 +95,35 @@ The amout of C0<sub>2</sub> in the atmosphere grew by 2ppm in 2009
 
 ```
 ## Ordered lists
+An ordered list starts with the `<ol>` tag. Each list item starts with the `<li>` tag. The list items will be marked with numbers by default
+
+1. List item
+2. List item
+3. List item
+4. List item
+
+```
+<ol>
+    <li>List item</li>
+    <li>List item</li>
+    <li>List item</li>
+    <li>List item</li>
+</ol>
+```
 ## Unordered lists
+An unordered list starts with the `<ul>` tag. Each list item starts with the `<li>` tag. The list items will be marked with bullets (small black circles) by default:
+
++ List item
++ List item
++ List item
++ List item
+
+```
+<ul>
+    <li>List item</li>
+    <li>List item</li>
+    <li>List item</li>
+    <li>List item</li>
+</ul>
+```
 ## Special Characters
