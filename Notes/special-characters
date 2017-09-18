@@ -1,0 +1,128 @@
+Char  	HTML Code	Standard in most Browsers
+&#160; &nbsp;	Non-breaking space
+¡	&#161; &iexcl;	Inverted Exclamation
+¢	&#162; &cent;	Cent sign
+£	&#163; &pound;	Pound sterling
+¤	&#164; &curren;	General currency sign
+¥	&#165; &yen;	Yen sign
+¦	&#166; &brvbar; &brkbar;	Broken vertical bar
+§	&#167; &sect;	Section sign
+¨	&#168; &um; &die;	Diæresis / Umlaut
+©	&#169; &copy;	Copyright
+ª	&#170; &ordf;	Feminine ordinal
+«	&#171; &laquo;	Left angle quote, guillemot left
+¬	&#172; &not	Not sign
+&#173; &shy;	Soft hyphen
+®	&#174; &reg;	Registered trademark
+¯	&#175; &macr; &hibar;	Macron accent
+°	&#176; &deg;	Degree sign
+±	&#177; &plusmn;	Plus or minus
+²	&#178; &sup2;	Superscript two
+³	&#179; &sup3;	Superscript three
+´	&#180; &acute;	Acute accent
+µ	&#181; &micro;	Micro sign
+¶	&#182; &para;	Paragraph sign
+·	&#183; &middot;	Middle dot
+¸	&#184; &cedil;	Cedilla
+¹	&#185; &sup1;	Superscript one
+º	&#186; &ordm;	Masculine ordinal
+»	&#187; &raquo;	Right angle quote, guillemot right
+¼	&#188; &frac14;	Fraction one-fourth
+½	&#189; &frac12;	Fraction one-half
+¾	&#190; &frac34;	Fraction three-fourths
+¿	&#191; &iquest;	Inverted question mark
+×	&#215; &times;	Multiply sign
+Ø	&#216; &Oslash;	Capital O, slash
+÷	&#247; &divide;	Division sign
+ø	&#248; &oslash;	Small o, slash
+Char  	HTML Code	Non-Standard - Unreliable appearance
+ƒ	&#402; &fnof;	florin
+ˆ	&#710; &circ;	Circumflex accent, small caret
+˜	&#732; &tilde;	Small tilde
+–	&#8211; &ndash;	En dash
+—	&#8212; &mdash;	Em dash
+‘	&#8216; &lsquo;	Left single quote
+’	&#8217; &rsquo;	Right single quote
+‚	&#8218; &sbquo;	Single bottom quote (comma wannabe)
+“	&#8220; &ldquo;	Left double-quote
+”	&#8221; &rdquo;	Right double-quote
+„	&#8222; &bdquo;	Bottom double-quote
+†	&#8224; &dagger;	Dagger
+‡	&#8225; &Dagger;	Double-dagger
+•	&#8226; &bull;	Bullseye circle
+…	&#8230; &hellip;	Horizontal ellipse
+‰	&#8240; &permil;	Per mille (1,000)
+‹	&#8249; &lsaquo;	Left Single angle quote
+›	&#8250; &rsaquo;	Right Single angle quote
+€	&#8364; &euro;	Euro sign (available?)
+™	&#8482; &trade;	Trademark
+Char  	HTML Code	Language Accent Description
+À	&#192; &Agrave;	Capital A, grave accent
+Á	&#193; &Aacute;	Capital A, acute accent
+Â	&#194; &Acirc;	Capital A, circumflex
+Ã	&#195; &Atilde;	Capital A, tilde
+Ä	&#196; &Auml;	Capital A, diæresis / umlaut
+Å	&#197; &Aring;	Capital A, ring
+Æ	&#198; &AElig;	Capital AE ligature
+Ç	&#199; &Ccedil;	Capital C, cedilla
+È	&#200; &Egrave;	Capital E, grave accent
+É	&#201; &Eacute;	Capital E, acute accent
+Ê	&#202; &Ecirc;	Capital E, circumflex
+Ë	&#203; &Euml;	Capital E, diæresis / umlaut
+Ì	&#204; &Igrave;	Capital I, grave accent
+Í	&#205; &Iacute;	Capital I, acute accent
+Î	&#206; &Icirc;	Capital I, circumflex
+Ï	&#207; &Iuml;	Capital I, diæresis / umlaut
+Ð	&#208; &ETH;	Capital Eth, Icelandic
+Ñ	&#209; &Ntilde;	Capital N, tilde
+Ò	&#210; &Ograve;	Capital O, grave accent
+Ó	&#211; &Oacute;	Capital O, acute accent
+Ô	&#212; &Ocirc;	Capital O, circumflex
+Õ	&#213; &Otilde;	Capital O, tilde
+Ö	&#214; &Ouml;	Capital O, diæresis / umlaut
+×	&#215; &times;	Multiply sign
+Ø	&#216; &Oslash;	Capital O, slash
+Ù	&#217; &Ugrave;	Capital U, grave accent
+Ú	&#218; &Uacute;	Capital U, acute accent
+Û	&#219; &Ucirc;	Capital U, circumflex
+Ü	&#220; &Uuml;	Capital U, diæresis / umlaut
+Ý	&#221; &Yacute;	Capital Y, acute accent
+Þ	&#222; &THORN;	Capital Thorn, Icelandic
+ß	&#223; &szlig;	Small sharp s, German sz
+à	&#224; &agrave;	Small a, grave accent
+á	&#225; &aacute;	Small a, acute accent
+â	&#226; &acirc;	Small a, circumflex
+ã	&#227; &atilde;	Small a, tilde
+ä	&#228; &auml;	Small a, diæresis / umlaut
+å	&#229; &aring;	Small a, ring
+æ	&#230; &aelig;	Small ae ligature
+ç	&#231; &ccedil;	Small c, cedilla
+è	&#232; &egrave;	Small e, grave accent
+é	&#233; &eacute;	Small e, acute accent
+ê	&#234; &ecirc;	Small e, circumflex
+ë	&#235; &euml;	Small e, diæresis / umlaut
+ì	&#236; &igrave;	Small i, grave accent
+í	&#237; &iacute;	Small i, acute accent
+î	&#238; &icirc;	Small i, circumflex
+ï	&#239; &iuml;	Small i, diæresis / umlaut
+ð	&#240; &eth;	Small eth, Icelandic
+ñ	&#241; &ntilde;	Small n, tilde
+ò	&#242; &ograve;	Small o, grave accent
+ó	&#243; &oacute;	Small o, acute accent
+ô	&#244; &ocirc;	Small o, circumflex
+õ	&#245; &otilde;	Small o, tilde
+ö	&#246; &ouml;	Small o, diæresis / umlaut
+÷	&#247; &divide;	Division sign
+ø	&#248; &oslash;	Small o, slash
+ù	&#249; &ugrave;	Small u, grave accent
+ú	&#250; &uacute;	Small u, acute accent
+û	&#251; &ucirc;	Small u, circumflex
+ü	&#252; &uuml;	Small u, diæresis / umlaut
+ý	&#253; &yacute;	Small y, acute accent
+þ	&#254; &thorn;	Small thorn, Icelandic
+ÿ	&#255; &yuml;	Small y, diæresis / umlaut
+Œ	&#338; &OElig;	Latin OE ligature
+œ	&#339; &oelig;	Latin oe ligature
+Š	&#352; &Scaron;	Capital S with caron
+š	&#353; &scaron;	Small s with caron
+Ÿ	&#376; &Yuml;	Capital Y with diærisis / umlaut
